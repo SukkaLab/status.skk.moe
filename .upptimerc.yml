@@ -24,7 +24,7 @@ sites:
     headers:
       - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
   - name: friends.skk.moe
-    url: https://friends.skk.moe
+    url: https://friends.skk.moe/links.json
     headers:
       - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
   - name: cdn.skk.moe
@@ -95,6 +95,8 @@ sites:
     url: https://pure-svg-countdown.skk.moe
     headers:
       - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+    expectedStatusCodes:
+      - 404
   - name: md2bc.skk.moe
     url: https://md2bc.skk.moe
     headers:
