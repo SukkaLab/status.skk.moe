@@ -1,7 +1,7 @@
 url: https://latency-test.skk.moe/endpoint
-status: down
-code: 403
-responseTime: 66
-lastUpdated: 2023-09-03T10:00:31.490Z
+status: up
+code: 200
+responseTime: 374
+lastUpdated: 2023-09-03T10:09:40.210Z
 startTime: 2023-09-03T10:00:31.387Z
 generator: Upptime <https://github.com/upptime/upptime>
