@@ -4,19 +4,19 @@
     "url": "https://skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/skk.moe.ico",
     "slug": "skk-moe",
-    "status": "down",
-    "uptime": "0.82%",
-    "uptimeDay": "0.82%",
-    "uptimeWeek": "0.82%",
-    "uptimeMonth": "0.82%",
-    "uptimeYear": "0.82%",
-    "time": 40,
-    "timeDay": 40,
-    "timeWeek": 40,
-    "timeMonth": 40,
-    "timeYear": 40,
+    "status": "up",
+    "uptime": "1.65%",
+    "uptimeDay": "1.65%",
+    "uptimeWeek": "1.65%",
+    "uptimeMonth": "1.65%",
+    "uptimeYear": "1.65%",
+    "time": 115,
+    "timeDay": 115,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-09-03": 0
+      "2023-09-03": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/www.skk.moe.ico",
     "slug": "www-skk-moe",
-    "status": "down",
-    "uptime": "1.39%",
-    "uptimeDay": "1.39%",
-    "uptimeWeek": "1.39%",
-    "uptimeMonth": "1.39%",
-    "uptimeYear": "1.39%",
-    "time": 37,
-    "timeDay": 37,
-    "timeWeek": 37,
-    "timeMonth": 37,
-    "timeYear": 37,
+    "status": "up",
+    "uptime": "1.16%",
+    "uptimeDay": "1.16%",
+    "uptimeWeek": "1.16%",
+    "uptimeMonth": "1.16%",
+    "uptimeYear": "1.16%",
+    "time": 53,
+    "timeDay": 53,
+    "timeWeek": 53,
+    "timeMonth": 53,
+    "timeYear": 53,
     "dailyMinutesDown": {
-      "2023-09-03": 0
+      "2023-09-03": 7
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://blog.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/blog.skk.moe.ico",
     "slug": "blog-skk-moe",
-    "status": "down",
-    "uptime": "2.69%",
-    "uptimeDay": "2.69%",
-    "uptimeWeek": "2.69%",
-    "uptimeMonth": "2.69%",
-    "uptimeYear": "2.69%",
-    "time": 43,
-    "timeDay": 43,
-    "timeWeek": 43,
-    "timeMonth": 43,
-    "timeYear": 43,
+    "status": "up",
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-09-03": 0
+      "2023-09-03": 7
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.skk.moe.ico",
     "slug": "cdn-skk-moe",
     "status": "down",
-    "uptime": "3.36%",
-    "uptimeDay": "3.36%",
-    "uptimeWeek": "3.36%",
-    "uptimeMonth": "3.36%",
-    "uptimeYear": "3.36%",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 108,
     "timeDay": 108,
     "timeWeek": 108,
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-09-03": 0
+      "2023-09-03": 7
     }
   }
 ]
