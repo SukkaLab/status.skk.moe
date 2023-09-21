@@ -1,7 +1,7 @@
 url: https://debug.skk.moe
-status: up
-code: 200
-responseTime: 255
-lastUpdated: 2023-09-20T23:11:53.142Z
+status: down
+code: 502
+responseTime: 2964
+lastUpdated: 2023-09-21T21:10:24.191Z
 startTime: 2023-09-03T10:00:44.881Z
 generator: Upptime <https://github.com/upptime/upptime>
