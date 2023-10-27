@@ -202,18 +202,20 @@
     "url": "https://dashflare.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/dashflare.skk.moe.ico",
     "slug": "dashflare-skk-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 505,
-    "timeWeek": 243,
-    "timeMonth": 255,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
+    "time": 229,
+    "timeDay": 426,
+    "timeWeek": 256,
+    "timeMonth": 258,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
   },
   {
     "name": "vercel-dns.skk.moe",
