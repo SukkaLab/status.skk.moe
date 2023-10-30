@@ -1,7 +1,7 @@
 url: https://api.skk.moe
-status: up
-code: 200
-responseTime: 129
-lastUpdated: 2023-10-29T23:11:38.738Z
+status: down
+code: 500
+responseTime: 208
+lastUpdated: 2023-10-30T20:05:21.436Z
 startTime: 2023-09-03T10:00:45.611Z
 generator: Upptime <https://github.com/upptime/upptime>
