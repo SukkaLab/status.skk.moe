@@ -4,19 +4,19 @@
     "url": "https://skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/skk.moe.ico",
     "slug": "skk-moe",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 256,
-    "timeDay": 256,
-    "timeWeek": 268,
-    "timeMonth": 295,
+    "timeDay": 250,
+    "timeWeek": 265,
+    "timeMonth": 293,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-10-30": 16
+      "2023-10-30": 23
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/www.skk.moe.ico",
     "slug": "www-skk-moe",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 247,
-    "timeDay": 221,
-    "timeWeek": 228,
-    "timeMonth": 272,
-    "timeYear": 247,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 246,
+    "timeDay": 197,
+    "timeWeek": 219,
+    "timeMonth": 268,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-10-30": 16
+      "2023-10-30": 23
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://ip.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/ip.skk.moe.ico",
     "slug": "ip-skk-moe",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 225,
-    "timeDay": 198,
-    "timeWeek": 259,
-    "timeMonth": 241,
-    "timeYear": 225,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 226,
+    "timeDay": 241,
+    "timeWeek": 267,
+    "timeMonth": 243,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-10-30": 16
+      "2023-10-30": 23
     }
   },
   {
