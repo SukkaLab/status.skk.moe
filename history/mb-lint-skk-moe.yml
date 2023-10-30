@@ -1,7 +1,7 @@
 url: https://mb-lint.skk.moe
-status: up
-code: 200
-responseTime: 157
-lastUpdated: 2023-10-29T23:11:35.605Z
+status: down
+code: 500
+responseTime: 112
+lastUpdated: 2023-10-30T20:05:17.368Z
 startTime: 2023-09-03T10:00:38.832Z
 generator: Upptime <https://github.com/upptime/upptime>
