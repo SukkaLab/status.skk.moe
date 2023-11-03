@@ -226,7 +226,7 @@
     "uptimeYear": "100.00%",
     "time": 237,
     "timeDay": 521,
-    "timeWeek": 306,
+    "timeWeek": 288,
     "timeMonth": 280,
     "timeYear": 237,
     "dailyMinutesDown": {}
@@ -310,18 +310,20 @@
     "url": "https://disqus.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/disqus.skk.moe.ico",
     "slug": "disqus-skk-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 148,
-    "timeWeek": 328,
-    "timeMonth": 400,
-    "timeYear": 508,
-    "dailyMinutesDown": {}
+    "time": 502,
+    "timeDay": 116,
+    "timeWeek": 297,
+    "timeMonth": 391,
+    "timeYear": 502,
+    "dailyMinutesDown": {
+      "2023-11-03": 0
+    }
   },
   {
     "name": "doku.skk.moe",
