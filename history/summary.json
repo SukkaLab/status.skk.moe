@@ -312,8 +312,8 @@
     "slug": "disqus-skk-moe",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 486,
@@ -322,7 +322,7 @@
     "timeMonth": 371,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2023-11-04": 0
+      "2023-11-04": 1
     }
   },
   {
