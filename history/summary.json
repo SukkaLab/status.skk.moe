@@ -278,19 +278,19 @@
     "url": "https://latency-test.skk.moe/endpoint",
     "icon": "https://icons.duckduckgo.com/ip3/latency-test.skk.moe.ico",
     "slug": "latency-test-skk-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 36,
-    "timeWeek": 94,
+    "timeDay": 58,
+    "timeWeek": 92,
     "timeMonth": 79,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2024-01-14": 2
+      "2024-01-14": 7
     }
   },
   {
@@ -354,19 +354,19 @@
     "url": "https://hv-monster.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/hv-monster.skk.moe.ico",
     "slug": "hv-monster-skk-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 145,
-    "timeDay": 201,
-    "timeWeek": 137,
-    "timeMonth": 126,
+    "timeDay": 176,
+    "timeWeek": 139,
+    "timeMonth": 127,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-01-14": 1,
+      "2024-01-14": 6,
       "2023-10-30": 15
     }
   },
@@ -375,19 +375,19 @@
     "url": "https://hv-monster-submit.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/hv-monster-submit.skk.moe.ico",
     "slug": "hv-monster-submit-skk-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 70,
-    "timeWeek": 180,
+    "timeDay": 111,
+    "timeWeek": 176,
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-01-14": 0
+      "2024-01-14": 6
     }
   },
   {
