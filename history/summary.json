@@ -280,18 +280,16 @@
     "slug": "latency-test-skk-moe",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 58,
     "timeWeek": 92,
     "timeMonth": 79,
     "timeYear": 101,
-    "dailyMinutesDown": {
-      "2024-01-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "disqusjs.skk.moe",
@@ -356,9 +354,9 @@
     "slug": "hv-monster-skk-moe",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 145,
     "timeDay": 176,
@@ -366,7 +364,6 @@
     "timeMonth": 127,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-01-14": 6,
       "2023-10-30": 15
     }
   },
@@ -377,18 +374,16 @@
     "slug": "hv-monster-submit-skk-moe",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
     "timeDay": 111,
     "timeWeek": 176,
     "timeMonth": 146,
     "timeYear": 146,
-    "dailyMinutesDown": {
-      "2024-01-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "hv-monsterdb-data.skk.moe",
