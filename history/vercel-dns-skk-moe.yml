@@ -1,7 +1,7 @@
 url: https://vercel-dns.skk.moe
-status: up
-code: 200
-responseTime: 155
-lastUpdated: 2024-01-16T23:12:49.428Z
+status: down
+code: 500
+responseTime: 1360
+lastUpdated: 2024-01-17T21:53:42.565Z
 startTime: 2023-09-03T10:00:29.073Z
 generator: Upptime <https://github.com/upptime/upptime>
