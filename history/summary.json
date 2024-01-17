@@ -236,18 +236,20 @@
     "url": "https://vercel-dns.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/vercel-dns.skk.moe.ico",
     "slug": "vercel-dns-skk-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 155,
-    "timeWeek": 181,
-    "timeMonth": 144,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 204,
+    "timeDay": 758,
+    "timeWeek": 328,
+    "timeMonth": 182,
+    "timeYear": 204,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "ruleset.skk.moe",
@@ -315,18 +317,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disqus.skk.moe.ico",
     "slug": "disqus-skk-moe",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.96%",
     "time": 338,
     "timeDay": 826,
     "timeWeek": 354,
     "timeMonth": 284,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-01-17": 0,
+      "2024-01-17": 8,
       "2023-11-04": 61
     }
   },
@@ -373,18 +375,20 @@
     "url": "https://hv-monster-submit.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/hv-monster-submit.skk.moe.ico",
     "slug": "hv-monster-submit-skk-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 156,
-    "timeWeek": 172,
-    "timeMonth": 150,
+    "timeDay": 147,
+    "timeWeek": 168,
+    "timeMonth": 149,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "hv-monsterdb-data.skk.moe",
