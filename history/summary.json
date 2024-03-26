@@ -537,18 +537,20 @@
     "url": "https://debug.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/debug.skk.moe.ico",
     "slug": "debug-skk-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 214,
-    "timeWeek": 175,
+    "timeDay": 223,
+    "timeWeek": 182,
     "timeMonth": 223,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   },
   {
     "name": "api.skk.moe",
