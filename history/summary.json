@@ -519,19 +519,19 @@
     "url": "https://theme-suka.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/theme-suka.skk.moe.ico",
     "slug": "theme-suka-skk-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 1121,
-    "timeWeek": 367,
-    "timeMonth": 335,
-    "timeYear": 158,
+    "time": 159,
+    "timeDay": 873,
+    "timeWeek": 368,
+    "timeMonth": 337,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-03-30": 1
+      "2024-03-30": 8
     }
   },
   {
