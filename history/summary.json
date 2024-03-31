@@ -13,7 +13,7 @@
     "time": 299,
     "timeDay": 330,
     "timeWeek": 335,
-    "timeMonth": 328,
+    "timeMonth": 336,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2023-10-30": 23
@@ -33,7 +33,7 @@
     "time": 270,
     "timeDay": 83,
     "timeWeek": 274,
-    "timeMonth": 394,
+    "timeMonth": 390,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2023-10-30": 23
@@ -53,7 +53,7 @@
     "time": 255,
     "timeDay": 118,
     "timeWeek": 224,
-    "timeMonth": 361,
+    "timeMonth": 352,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2023-10-30": 15
@@ -73,7 +73,7 @@
     "time": 225,
     "timeDay": 142,
     "timeWeek": 228,
-    "timeMonth": 227,
+    "timeMonth": 223,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2023-10-30": 23
@@ -93,7 +93,7 @@
     "time": 219,
     "timeDay": 171,
     "timeWeek": 206,
-    "timeMonth": 194,
+    "timeMonth": 191,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2023-10-30": 15
@@ -113,7 +113,7 @@
     "time": 198,
     "timeDay": 78,
     "timeWeek": 154,
-    "timeMonth": 198,
+    "timeMonth": 196,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -131,7 +131,7 @@
     "time": 212,
     "timeDay": 134,
     "timeWeek": 168,
-    "timeMonth": 198,
+    "timeMonth": 196,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2023-10-30": 15
@@ -151,7 +151,7 @@
     "time": 241,
     "timeDay": 151,
     "timeWeek": 225,
-    "timeMonth": 297,
+    "timeMonth": 291,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2023-10-30": 15
@@ -171,7 +171,7 @@
     "time": 162,
     "timeDay": 105,
     "timeWeek": 103,
-    "timeMonth": 119,
+    "timeMonth": 117,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -189,7 +189,7 @@
     "time": 205,
     "timeDay": 90,
     "timeWeek": 140,
-    "timeMonth": 272,
+    "timeMonth": 266,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2023-10-30": 15
@@ -227,7 +227,7 @@
     "time": 249,
     "timeDay": 155,
     "timeWeek": 220,
-    "timeMonth": 375,
+    "timeMonth": 366,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -245,7 +245,7 @@
     "time": 190,
     "timeDay": 89,
     "timeWeek": 167,
-    "timeMonth": 163,
+    "timeMonth": 173,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -263,7 +263,7 @@
     "time": 219,
     "timeDay": 138,
     "timeWeek": 152,
-    "timeMonth": 314,
+    "timeMonth": 307,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2023-12-19": 32,
@@ -287,7 +287,7 @@
     "time": 99,
     "timeDay": 42,
     "timeWeek": 56,
-    "timeMonth": 74,
+    "timeMonth": 73,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
@@ -323,7 +323,7 @@
     "time": 156,
     "timeDay": 79,
     "timeWeek": 101,
-    "timeMonth": 259,
+    "timeMonth": 255,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -380,7 +380,7 @@
     "time": 150,
     "timeDay": 151,
     "timeWeek": 182,
-    "timeMonth": 157,
+    "timeMonth": 156,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2023-10-30": 15
@@ -400,7 +400,7 @@
     "time": 152,
     "timeDay": 125,
     "timeWeek": 126,
-    "timeMonth": 185,
+    "timeMonth": 181,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -418,7 +418,7 @@
     "time": 219,
     "timeDay": 133,
     "timeWeek": 127,
-    "timeMonth": 287,
+    "timeMonth": 282,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
@@ -436,7 +436,7 @@
     "time": 140,
     "timeDay": 108,
     "timeWeek": 127,
-    "timeMonth": 148,
+    "timeMonth": 161,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2023-10-30": 15
@@ -456,7 +456,7 @@
     "time": 139,
     "timeDay": 101,
     "timeWeek": 117,
-    "timeMonth": 136,
+    "timeMonth": 134,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -474,7 +474,7 @@
     "time": 138,
     "timeDay": 77,
     "timeWeek": 99,
-    "timeMonth": 264,
+    "timeMonth": 259,
     "timeYear": 138,
     "dailyMinutesDown": {}
   },
@@ -521,18 +521,16 @@
     "slug": "theme-suka-skk-moe",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
     "timeDay": 873,
     "timeWeek": 368,
-    "timeMonth": 337,
+    "timeMonth": 331,
     "timeYear": 159,
-    "dailyMinutesDown": {
-      "2024-03-30": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "debug.skk.moe",
@@ -548,7 +546,7 @@
     "time": 260,
     "timeDay": 193,
     "timeWeek": 212,
-    "timeMonth": 227,
+    "timeMonth": 224,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2024-03-26": 18
@@ -568,7 +566,7 @@
     "time": 174,
     "timeDay": 130,
     "timeWeek": 170,
-    "timeMonth": 167,
+    "timeMonth": 172,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2023-10-30": 15
@@ -588,7 +586,7 @@
     "time": 75,
     "timeDay": 42,
     "timeWeek": 63,
-    "timeMonth": 66,
+    "timeMonth": 65,
     "timeYear": 75,
     "dailyMinutesDown": {}
   },
@@ -606,7 +604,7 @@
     "time": 143,
     "timeDay": 88,
     "timeWeek": 110,
-    "timeMonth": 237,
+    "timeMonth": 234,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -624,7 +622,7 @@
     "time": 134,
     "timeDay": 72,
     "timeWeek": 97,
-    "timeMonth": 142,
+    "timeMonth": 143,
     "timeYear": 134,
     "dailyMinutesDown": {}
   },
@@ -642,7 +640,7 @@
     "time": 162,
     "timeDay": 123,
     "timeWeek": 765,
-    "timeMonth": 285,
+    "timeMonth": 280,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2023-10-30": 15
@@ -662,7 +660,7 @@
     "time": 74,
     "timeDay": 44,
     "timeWeek": 43,
-    "timeMonth": 169,
+    "timeMonth": 164,
     "timeYear": 74,
     "dailyMinutesDown": {}
   }
