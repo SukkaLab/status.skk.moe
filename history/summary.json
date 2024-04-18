@@ -577,18 +577,20 @@
     "url": "https://qqwry.api.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/qqwry.api.skk.moe.ico",
     "slug": "qqwry-api-skk-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 74,
-    "timeDay": 58,
-    "timeWeek": 57,
-    "timeMonth": 59,
+    "timeDay": 60,
+    "timeWeek": 58,
+    "timeMonth": 60,
     "timeYear": 74,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 1
+    }
   },
   {
     "name": "github-profile-cards.skk.moe",
