@@ -672,19 +672,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.skk.moe.ico",
     "slug": "share-skk-moe",
     "status": "up",
-    "uptime": "7.22%",
-    "uptimeDay": "7.22%",
-    "uptimeWeek": "7.22%",
-    "uptimeMonth": "7.22%",
-    "uptimeYear": "7.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 194,
     "timeWeek": 194,
     "timeMonth": 194,
     "timeYear": 194,
-    "dailyMinutesDown": {
-      "2024-08-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "shot.skk.moe",
@@ -692,19 +690,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shot.skk.moe.ico",
     "slug": "shot-skk-moe",
     "status": "up",
-    "uptime": "7.15%",
-    "uptimeDay": "7.15%",
-    "uptimeWeek": "7.15%",
-    "uptimeMonth": "7.15%",
-    "uptimeYear": "7.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 673,
     "timeDay": 673,
     "timeWeek": 673,
     "timeMonth": 673,
     "timeYear": 673,
-    "dailyMinutesDown": {
-      "2024-08-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "d.skk.moe",
