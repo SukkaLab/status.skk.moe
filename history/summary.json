@@ -597,10 +597,10 @@
     "url": "https://github-profile-cards.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/github-profile-cards.skk.moe.ico",
     "slug": "github-profile-cards-skk-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
@@ -608,7 +608,9 @@
     "timeWeek": 158,
     "timeMonth": 148,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 1
+    }
   },
   {
     "name": "clash.skk.moe",
