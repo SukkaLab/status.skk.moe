@@ -1,4 +1,3 @@
-# Change these first
 owner: SukkaLab # Your GitHub organization or username, where this repository lives
 repo: status.skk.moe # The name of this repository
 
@@ -150,12 +149,14 @@ sites:
     headers:
       - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
     expectedStatusCodes:
+      - 200
       - 302
   - name: shot.skk.moe
     url: https://shot.skk.moe
     headers:
       - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
     expectedStatusCodes:
+      - 200
       - 302
   - name: d.skk.moe
     url: https://d.skk.moe
@@ -163,10 +164,10 @@ sites:
       - 403
 
 workflowSchedule:
-  graphs: "0 */4 * * *"
-  responseTime: "0 23 * * *"
+  graphs: "1 */6 * * *"
+  responseTime: "1 */6 * * *"
   staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
+  summary: "1 */6 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
