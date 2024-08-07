@@ -6,141 +6,157 @@ sites:
   - name: skk.moe
     url: https://skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: www.skk.moe
     url: https://www.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: blog.skk.moe
     url: https://blog.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: ip.skk.moe
     url: https://ip.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: lab.skk.moe
     url: https://lab.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: friends.skk.moe
     url: https://friends.skk.moe/links.json
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: cdn.skk.moe
     url: https://cdn.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: pic.skk.moe
     url: https://pic.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: img.skk.moe
     url: https://img.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: go.skk.moe
     url: https://go.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: foxact.skk.moe
     url: https://foxact.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: dashflare.skk.moe
     url: https://dashflare.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: vercel-dns.skk.moe
     url: https://vercel-dns.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: ruleset.skk.moe
     url: https://ruleset.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: latency-test.skk.moe
     url: https://latency-test.skk.moe/endpoint
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: latency-test.lab.skk.moe
     url: https://latency-test.skk.moe/endpoint
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: disqusjs.skk.moe
     url: https://disqusjs.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: disqus.skk.moe
     url: https://disqus.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: doku.skk.moe
     url: https://doku.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: hv-monster.skk.moe
     url: https://hv-monster.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: hv-monster-submit.skk.moe
     url: https://hv-monster-submit.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: hv-monsterdb-data.skk.moe
     url: https://hv-monsterdb-data.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: mb-lint.skk.moe
     url: https://mb-lint.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: pure-svg-countdown.skk.moe
     url: https://pure-svg-countdown.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
     expectedStatusCodes:
       - 404
   - name: md2bc.skk.moe
     url: https://md2bc.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: nali.skk.moe
     url: https://nali.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: oc.skk.moe
     url: https://oc.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: theme-suka.skk.moe
     url: https://theme-suka.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: debug.skk.moe
     url: https://debug.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: api.skk.moe
     url: https://api.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: qqwry.api.skk.moe
     url: https://qqwry.api.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
-  - name: github-profile-cards.skk.moe
-    url: https://github-profile-cards.skk.moe
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
+  - name: github-profile-cards.cdn.skk.moe
+    url: https://github-profile-cards.cdn.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
+  - name: sponsor.cdn.skk.moe
+    url: https://sponsor.cdn.skk.moe
+    headers:
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: clash.skk.moe
     url: https://clash.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: l.skk.moe
     url: https://l.skk.moe
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.skk.moe)"
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
+  - name: share.skk.moe
+    url: https://share.skk.moe
+    headers:
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
+    expectedStatusCodes:
+      - 302
+  - name: shot.skk.moe
+    url: https://shot.skk.moe
+    headers:
+      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
+    expectedStatusCodes:
+      - 302
   - name: d.skk.moe
     url: https://d.skk.moe
     expectedStatusCodes:
