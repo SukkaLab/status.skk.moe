@@ -690,19 +690,19 @@
     "url": "https://shot.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/shot.skk.moe.ico",
     "slug": "shot-skk-moe",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 649,
-    "timeDay": 2553,
-    "timeWeek": 892,
-    "timeMonth": 678,
-    "timeYear": 649,
+    "uptimeYear": "99.97%",
+    "time": 648,
+    "timeDay": 2150,
+    "timeWeek": 880,
+    "timeMonth": 677,
+    "timeYear": 648,
     "dailyMinutesDown": {
-      "2024-10-05": 20
+      "2024-10-05": 23
     }
   },
   {
