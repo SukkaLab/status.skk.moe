@@ -218,19 +218,19 @@
     "url": "https://dashflare.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/dashflare.skk.moe.ico",
     "slug": "dashflare-skk-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 177,
-    "timeWeek": 262,
-    "timeMonth": 353,
-    "timeYear": 280,
+    "timeDay": 172,
+    "timeWeek": 258,
+    "timeMonth": 351,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 15
     }
   },
   {
