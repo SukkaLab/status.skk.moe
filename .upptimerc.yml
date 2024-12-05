@@ -116,10 +116,6 @@ sites:
     url: https://theme-suka.skk.moe
     headers:
       - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
-  - name: debug.skk.moe
-    url: https://debug.skk.moe
-    headers:
-      - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: api.skk.moe
     url: https://api.skk.moe
     headers:
