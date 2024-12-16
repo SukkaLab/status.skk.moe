@@ -22,8 +22,8 @@ sites:
     url: https://lab.skk.moe
     headers:
       - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
-  - name: friends.skk.moe
-    url: https://friends.skk.moe/links.json
+  - name: friends.cdn.skk.moe
+    url: https://friends.cdn.skk.moe/links.json
     headers:
       - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
   - name: cdn.skk.moe
