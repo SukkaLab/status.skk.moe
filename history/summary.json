@@ -566,19 +566,19 @@
     "url": "https://sponsor.cdn.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/sponsor.cdn.skk.moe.ico",
     "slug": "sponsor-cdn-skk-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 4586,
-    "timeWeek": 1368,
-    "timeMonth": 682,
-    "timeYear": 492,
+    "time": 491,
+    "timeDay": 4070,
+    "timeWeek": 1339,
+    "timeMonth": 681,
+    "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-01-30": 1
+      "2025-01-30": 7
     }
   },
   {
