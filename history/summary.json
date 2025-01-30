@@ -568,18 +568,16 @@
     "slug": "sponsor-cdn-skk-moe",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
     "timeDay": 4070,
     "timeWeek": 1339,
     "timeMonth": 681,
     "timeYear": 491,
-    "dailyMinutesDown": {
-      "2025-01-30": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "clash.skk.moe",
