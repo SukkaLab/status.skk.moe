@@ -99,7 +99,7 @@ sites:
     headers:
       - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
     expectedStatusCodes:
-      - 404
+      - 200
   - name: md2bc.skk.moe
     url: https://md2bc.skk.moe
     headers:
