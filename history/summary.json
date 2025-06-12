@@ -476,9 +476,9 @@
     "slug": "pure-svg-countdown-skk-moe",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.81%",
     "time": 165,
     "timeDay": 300,
@@ -486,7 +486,7 @@
     "timeMonth": 211,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-06-12": 2,
+      "2025-06-12": 8,
       "2025-04-15": 63,
       "2025-03-05": 404,
       "2025-03-04": 514
