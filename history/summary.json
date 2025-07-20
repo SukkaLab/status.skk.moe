@@ -239,7 +239,7 @@
     "time": 321,
     "timeDay": 359,
     "timeWeek": 439,
-    "timeMonth": 462,
+    "timeMonth": 451,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2025-03-05": 404,
@@ -252,10 +252,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/vercel-dns.skk.moe.ico",
     "slug": "vercel-dns-skk-moe",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
     "time": 185,
     "timeDay": 201,
@@ -263,7 +263,6 @@
     "timeMonth": 228,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-07-19": 12,
       "2025-07-15": 17,
       "2025-03-05": 404,
       "2025-03-04": 514
@@ -415,10 +414,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/hv-monster-submit.skk.moe.ico",
     "slug": "hv-monster-submit-skk-moe",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
     "time": 167,
     "timeDay": 167,
@@ -426,7 +425,6 @@
     "timeMonth": 200,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-07-19": 12,
       "2025-07-15": 17,
       "2025-03-05": 404,
       "2025-03-04": 514
@@ -468,7 +466,7 @@
     "timeDay": 145,
     "timeWeek": 186,
     "timeMonth": 193,
-    "timeYear": 204,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2025-03-05": 404,
       "2025-03-04": 514
