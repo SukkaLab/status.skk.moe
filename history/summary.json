@@ -56,7 +56,7 @@
     "timeDay": 263,
     "timeWeek": 234,
     "timeMonth": 263,
-    "timeYear": 281,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2025-03-05": 403,
       "2025-03-04": 514
@@ -176,7 +176,7 @@
     "timeDay": 206,
     "timeWeek": 186,
     "timeMonth": 163,
-    "timeYear": 153,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2025-03-05": 404,
       "2025-03-04": 514
@@ -251,19 +251,19 @@
     "url": "https://vercel-dns.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/vercel-dns.skk.moe.ico",
     "slug": "vercel-dns-skk-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.82%",
     "time": 187,
     "timeDay": 162,
-    "timeWeek": 186,
+    "timeWeek": 185,
     "timeMonth": 225,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-08-05": 2,
+      "2025-08-05": 20,
       "2025-07-15": 17,
       "2025-03-05": 404,
       "2025-03-04": 514
