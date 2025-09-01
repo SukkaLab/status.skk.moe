@@ -69,17 +69,16 @@
     "slug": "ip-skk-moe",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.83%",
     "time": 247,
     "timeDay": 304,
     "timeWeek": 313,
     "timeMonth": 288,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-09-01": 11,
       "2025-03-05": 403,
       "2025-03-04": 514
     }
