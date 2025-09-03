@@ -285,9 +285,7 @@
     "timeWeek": 219,
     "timeMonth": 235,
     "timeYear": 208,
-    "dailyMinutesDown": {
-      "2024-09-03": 154
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "latency-test.skk.moe",
@@ -732,9 +730,9 @@
     "slug": "shot-skk-moe",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 674,
     "timeDay": 737,
@@ -742,7 +740,6 @@
     "timeMonth": 660,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-09-02": 8,
       "2025-06-17": 20,
       "2025-03-05": 404,
       "2025-03-04": 539,
