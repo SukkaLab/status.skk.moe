@@ -143,10 +143,14 @@ sites:
     url: https://cache.cdn.skk.moe
     headers:
       - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
+    expectedStatusCodes:
+      - 404
   - name: config.cdn.skk.moe
     url: https://config.cdn.skk.moe
     headers:
       - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
+    expectedStatusCodes:
+      - 404
   - name: d.skk.moe
     url: https://d.skk.moe
     expectedStatusCodes:
