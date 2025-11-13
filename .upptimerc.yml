@@ -145,6 +145,7 @@ sites:
       - "User-Agent: curl/8.9.1 (https://status.skk.moe)"
     expectedStatusCodes:
       - 302
+      - 200
   - name: d.skk.moe
     url: https://d.skk.moe
     expectedStatusCodes:
