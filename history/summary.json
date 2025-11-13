@@ -694,18 +694,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cache.cdn.skk.moe.ico",
     "slug": "cache-cdn-skk-moe",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.42%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
     "time": 173,
     "timeDay": 135,
     "timeWeek": 173,
     "timeMonth": 173,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2025-11-13": 4
+      "2025-11-13": 32
     }
   },
   {
@@ -714,17 +714,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/config.cdn.skk.moe.ico",
     "slug": "config-cdn-skk-moe",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.79%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 175,
     "timeDay": 137,
     "timeWeek": 175,
     "timeMonth": 175,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-13": 12
+    }
   },
   {
     "name": "d.skk.moe",
