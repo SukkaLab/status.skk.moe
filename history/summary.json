@@ -695,18 +695,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ciallo.cdn.skk.moe.ico",
     "slug": "ciallo-cdn-skk-moe",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 164,
     "timeDay": 164,
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-11-13": 3
+      "2025-11-13": 7
     }
   },
   {
