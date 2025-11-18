@@ -1,7 +1,7 @@
 url: https://disqus.skk.moe
-status: up
-code: 200
-responseTime: 141
-lastUpdated: 2025-11-18T12:31:31.115Z
+status: down
+code: 500
+responseTime: 52
+lastUpdated: 2025-11-18T12:57:14.859Z
 startTime: 2023-09-03T10:00:34.265Z
 generator: Upptime <https://github.com/upptime/upptime>
