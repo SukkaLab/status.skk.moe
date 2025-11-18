@@ -94,18 +94,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lab.skk.moe.ico",
     "slug": "lab-skk-moe",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.91%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.81%",
     "time": 250,
     "timeDay": 182,
     "timeWeek": 241,
     "timeMonth": 264,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-11-18": 52,
+      "2025-11-18": 56,
       "2025-03-05": 403,
       "2025-03-04": 514
     }
@@ -117,9 +117,9 @@
     "slug": "friends-cdn-skk-moe",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 236,
     "timeDay": 248,
@@ -127,7 +127,7 @@
     "timeMonth": 222,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-11-18": 45
+      "2025-11-18": 48
     }
   },
   {
@@ -223,17 +223,17 @@
     "slug": "foxact-skk-moe",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.82%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.81%",
     "time": 222,
     "timeDay": 226,
     "timeWeek": 237,
     "timeMonth": 236,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-11-18": 53,
+      "2025-11-18": 57,
       "2025-03-05": 404,
       "2025-03-04": 514
     }
@@ -392,8 +392,8 @@
     "slug": "doku-skk-moe",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.82%",
     "time": 188,
@@ -402,7 +402,7 @@
     "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-11-18": 2,
+      "2025-11-18": 6,
       "2025-03-05": 404,
       "2025-03-04": 514
     }
@@ -551,9 +551,9 @@
     "slug": "nali-skk-moe",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.82%",
     "time": 186,
     "timeDay": 189,
@@ -561,7 +561,7 @@
     "timeMonth": 186,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-11-18": 39,
+      "2025-11-18": 43,
       "2025-03-05": 404,
       "2025-03-04": 514
     }
@@ -703,17 +703,17 @@
     "slug": "l-skk-moe",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.80%",
     "time": 172,
     "timeDay": 209,
     "timeWeek": 238,
     "timeMonth": 182,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-11-18": 55,
+      "2025-11-18": 59,
       "2025-11-13": 24,
       "2025-03-05": 404,
       "2025-03-04": 539
@@ -725,18 +725,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ciallo.cdn.skk.moe.ico",
     "slug": "ciallo-cdn-skk-moe",
     "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.74%",
+    "uptime": "98.68%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
     "time": 160,
     "timeDay": 157,
     "timeWeek": 160,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-11-18": 55,
+      "2025-11-18": 59,
       "2025-11-13": 33
     }
   },
