@@ -1,7 +1,7 @@
 url: https://hv-monster.skk.moe
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2025-11-18T06:39:34.238Z
+status: down
+code: 500
+responseTime: 42
+lastUpdated: 2025-11-18T11:40:17.189Z
 startTime: 2023-09-03T10:00:36.178Z
 generator: Upptime <https://github.com/upptime/upptime>
