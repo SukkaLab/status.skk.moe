@@ -1,6 +1,8 @@
 owner: SukkaLab # Your GitHub organization or username, where this repository lives
 repo: status.skk.moe # The name of this repository
 
+runner: ubuntu-slim
+
 sites:
   - name: skk.moe
     url: https://skk.moe
