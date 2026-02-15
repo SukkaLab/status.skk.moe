@@ -67,7 +67,7 @@
     "timeDay": 966,
     "timeWeek": 950,
     "timeMonth": 1172,
-    "timeYear": 392,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2025-03-05": 403,
       "2025-03-04": 514
@@ -197,7 +197,7 @@
     "timeDay": 937,
     "timeWeek": 888,
     "timeMonth": 969,
-    "timeYear": 279,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2025-03-05": 404,
       "2025-03-04": 514
@@ -554,7 +554,7 @@
     "timeDay": 690,
     "timeWeek": 284,
     "timeMonth": 312,
-    "timeYear": 201,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2025-11-18": 36,
       "2025-03-05": 404,
@@ -683,10 +683,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/sponsor.cdn.skk.moe.ico",
     "slug": "sponsor-cdn-skk-moe",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.80%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 590,
     "timeDay": 524,
@@ -694,7 +694,6 @@
     "timeMonth": 670,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2026-02-15": 13,
       "2026-02-10": 25,
       "2026-02-09": 32,
       "2026-01-27": 18,
