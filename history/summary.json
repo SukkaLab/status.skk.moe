@@ -4,19 +4,19 @@
     "url": "https://skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/skk.moe.ico",
     "slug": "skk-moe",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.61%",
-    "time": 347,
-    "timeDay": 423,
-    "timeWeek": 341,
-    "timeMonth": 321,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.60%",
+    "time": 346,
+    "timeDay": 376,
+    "timeWeek": 336,
+    "timeMonth": 322,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2026-03-30": 2,
+      "2026-03-30": 58,
       "2025-12-30": 17,
       "2025-11-24": 262,
       "2025-11-23": 1440,
@@ -40,7 +40,7 @@
     "time": 296,
     "timeDay": 231,
     "timeWeek": 277,
-    "timeMonth": 264,
+    "timeMonth": 263,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2025-11-24": 262,
@@ -63,7 +63,7 @@
     "time": 480,
     "timeDay": 1874,
     "timeWeek": 1339,
-    "timeMonth": 1068,
+    "timeMonth": 1071,
     "timeYear": 495,
     "dailyMinutesDown": {}
   },
@@ -81,7 +81,7 @@
     "time": 435,
     "timeDay": 1004,
     "timeWeek": 1106,
-    "timeMonth": 1111,
+    "timeMonth": 1112,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2025-11-18": 43
@@ -101,7 +101,7 @@
     "time": 291,
     "timeDay": 278,
     "timeWeek": 298,
-    "timeMonth": 274,
+    "timeMonth": 275,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2025-11-18": 77
@@ -121,7 +121,7 @@
     "time": 260,
     "timeDay": 326,
     "timeWeek": 247,
-    "timeMonth": 262,
+    "timeMonth": 263,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2025-11-18": 69
@@ -141,7 +141,7 @@
     "time": 408,
     "timeDay": 819,
     "timeWeek": 820,
-    "timeMonth": 1060,
+    "timeMonth": 1062,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2025-11-18": 51
@@ -161,7 +161,7 @@
     "time": 335,
     "timeDay": 363,
     "timeWeek": 357,
-    "timeMonth": 319,
+    "timeMonth": 321,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2025-11-24": 262,
@@ -184,7 +184,7 @@
     "time": 348,
     "timeDay": 1985,
     "timeWeek": 1385,
-    "timeMonth": 917,
+    "timeMonth": 915,
     "timeYear": 367,
     "dailyMinutesDown": {}
   },
@@ -202,7 +202,7 @@
     "time": 230,
     "timeDay": 186,
     "timeWeek": 256,
-    "timeMonth": 235,
+    "timeMonth": 236,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2025-11-24": 262,
@@ -226,7 +226,7 @@
     "time": 263,
     "timeDay": 348,
     "timeWeek": 326,
-    "timeMonth": 285,
+    "timeMonth": 286,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-11-18": 77
@@ -246,8 +246,8 @@
     "time": 489,
     "timeDay": 701,
     "timeWeek": 645,
-    "timeMonth": 640,
-    "timeYear": 503,
+    "timeMonth": 644,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2025-11-18": 36,
       "2025-10-20": 72
@@ -267,7 +267,7 @@
     "time": 262,
     "timeDay": 261,
     "timeWeek": 325,
-    "timeMonth": 297,
+    "timeMonth": 299,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-11-22": 19,
@@ -290,8 +290,8 @@
     "time": 225,
     "timeDay": 347,
     "timeWeek": 289,
-    "timeMonth": 204,
-    "timeYear": 229,
+    "timeMonth": 203,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2026-02-04": 100,
       "2026-02-03": 49,
@@ -348,7 +348,7 @@
     "time": 221,
     "timeDay": 193,
     "timeWeek": 240,
-    "timeMonth": 225,
+    "timeMonth": 226,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-11-18": 36
@@ -368,7 +368,7 @@
     "time": 196,
     "timeDay": 251,
     "timeWeek": 365,
-    "timeMonth": 233,
+    "timeMonth": 234,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-11-18": 36
@@ -386,9 +386,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 251,
+    "timeDay": 292,
     "timeWeek": 241,
-    "timeMonth": 224,
+    "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-11-18": 26
@@ -406,9 +406,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 260,
+    "timeDay": 301,
     "timeWeek": 235,
-    "timeMonth": 234,
+    "timeMonth": 235,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-11-18": 15
@@ -426,9 +426,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 234,
-    "timeDay": 221,
+    "timeDay": 225,
     "timeWeek": 239,
-    "timeMonth": 257,
+    "timeMonth": 258,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-11-22": 19,
@@ -450,9 +450,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 219,
-    "timeDay": 289,
+    "timeDay": 220,
     "timeWeek": 332,
-    "timeMonth": 264,
+    "timeMonth": 265,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-11-18": 36
@@ -470,10 +470,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 227,
-    "timeDay": 173,
+    "timeDay": 186,
     "timeWeek": 221,
-    "timeMonth": 214,
-    "timeYear": 231,
+    "timeMonth": 215,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2025-11-18": 44
     }
@@ -490,9 +490,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 240,
-    "timeDay": 205,
+    "timeDay": 209,
     "timeWeek": 244,
-    "timeMonth": 228,
+    "timeMonth": 229,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2025-11-18": 44,
@@ -512,7 +512,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 226,
-    "timeDay": 210,
+    "timeDay": 231,
     "timeWeek": 241,
     "timeMonth": 254,
     "timeYear": 232,
@@ -532,9 +532,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 209,
+    "timeDay": 240,
     "timeWeek": 225,
-    "timeMonth": 216,
+    "timeMonth": 217,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-11-18": 62
@@ -552,9 +552,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 269,
+    "timeDay": 318,
     "timeWeek": 235,
-    "timeMonth": 211,
+    "timeMonth": 212,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2026-01-27": 19,
@@ -573,9 +573,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 206,
-    "timeDay": 246,
+    "timeDay": 284,
     "timeWeek": 245,
-    "timeMonth": 225,
+    "timeMonth": 226,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-11-18": 36
@@ -593,9 +593,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 267,
-    "timeDay": 214,
+    "timeDay": 239,
     "timeWeek": 258,
-    "timeMonth": 231,
+    "timeMonth": 232,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2026-01-27": 19,
@@ -617,7 +617,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 192,
-    "timeDay": 166,
+    "timeDay": 173,
     "timeWeek": 171,
     "timeMonth": 164,
     "timeYear": 195,
@@ -636,12 +636,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 596,
-    "timeDay": 611,
+    "timeDay": 678,
     "timeWeek": 809,
-    "timeMonth": 694,
+    "timeMonth": 700,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2026-03-01": 26,
@@ -665,9 +665,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 204,
+    "timeDay": 237,
     "timeWeek": 217,
-    "timeMonth": 208,
+    "timeMonth": 209,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2026-01-27": 18,
@@ -686,9 +686,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 237,
-    "timeDay": 257,
+    "timeDay": 282,
     "timeWeek": 316,
-    "timeMonth": 275,
+    "timeMonth": 276,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-11-24": 262,
@@ -704,15 +704,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ciallo.cdn.skk.moe.ico",
     "slug": "ciallo-cdn-skk-moe",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.59%",
+    "uptimeYear": "98.60%",
     "time": 538,
-    "timeDay": 1663,
+    "timeDay": 1872,
     "timeWeek": 1126,
-    "timeMonth": 792,
+    "timeMonth": 794,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2025-12-19": 49,
@@ -736,10 +736,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 163,
+    "timeDay": 159,
     "timeWeek": 174,
     "timeMonth": 158,
-    "timeYear": 128,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2026-01-27": 17
     }
