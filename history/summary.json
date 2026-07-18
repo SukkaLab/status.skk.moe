@@ -218,20 +218,20 @@
     "url": "https://foxact.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/foxact.skk.moe.ico",
     "slug": "foxact-skk-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 285,
-    "timeDay": 3409,
-    "timeWeek": 784,
-    "timeMonth": 363,
+    "timeDay": 2863,
+    "timeWeek": 762,
+    "timeMonth": 361,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2025-11-18": 77,
-      "2026-07-18": 3
+      "2026-07-18": 45
     }
   },
   {
@@ -569,20 +569,20 @@
     "url": "https://theme-suka.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/theme-suka.skk.moe.ico",
     "slug": "theme-suka-skk-moe",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 219,
-    "timeDay": 3252,
-    "timeWeek": 722,
-    "timeMonth": 310,
+    "timeDay": 2735,
+    "timeWeek": 703,
+    "timeMonth": 309,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2025-11-18": 36,
-      "2026-07-18": 3
+      "2026-07-18": 43
     }
   },
   {
