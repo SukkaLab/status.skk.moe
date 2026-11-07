@@ -312,7 +312,7 @@
     "timeDay": 255,
     "timeWeek": 173,
     "timeMonth": 156,
-    "timeYear": 148,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
@@ -330,7 +330,7 @@
     "timeDay": 142,
     "timeWeek": 155,
     "timeMonth": 144,
-    "timeYear": 68,
+    "timeYear": 69,
     "dailyMinutesDown": {}
   },
   {
@@ -491,7 +491,7 @@
     "timeDay": 267,
     "timeWeek": 293,
     "timeMonth": 311,
-    "timeYear": 272,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2025-11-18": 44
     }
