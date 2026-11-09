@@ -64,7 +64,7 @@
     "timeDay": 918,
     "timeWeek": 905,
     "timeMonth": 977,
-    "timeYear": 889,
+    "timeYear": 890,
     "dailyMinutesDown": {}
   },
   {
@@ -82,7 +82,7 @@
     "timeDay": 821,
     "timeWeek": 901,
     "timeMonth": 947,
-    "timeYear": 827,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2025-11-18": 43
     }
@@ -102,7 +102,7 @@
     "timeDay": 385,
     "timeWeek": 411,
     "timeMonth": 354,
-    "timeYear": 292,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2025-11-18": 77
     }
@@ -270,7 +270,7 @@
     "timeDay": 304,
     "timeWeek": 416,
     "timeMonth": 374,
-    "timeYear": 326,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2025-11-22": 19
     }
@@ -511,7 +511,7 @@
     "timeDay": 264,
     "timeWeek": 216,
     "timeMonth": 233,
-    "timeYear": 248,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2025-11-18": 36
     }
@@ -630,16 +630,16 @@
     "url": "https://sponsor.cdn.skk.moe",
     "icon": "https://icons.duckduckgo.com/ip3/sponsor.cdn.skk.moe.ico",
     "slug": "sponsor-cdn-skk-moe",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "71.77%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.86%",
     "time": 665,
-    "timeDay": 515,
-    "timeWeek": 636,
-    "timeMonth": 659,
+    "timeDay": 593,
+    "timeWeek": 646,
+    "timeMonth": 660,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2025-12-24": 22,
@@ -650,7 +650,7 @@
       "2026-03-01": 26,
       "2026-07-31": 133,
       "2026-08-17": 31,
-      "2026-11-09": 5
+      "2026-11-09": 406
     }
   },
   {
@@ -739,7 +739,7 @@
     "timeDay": 150,
     "timeWeek": 241,
     "timeMonth": 228,
-    "timeYear": 176,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2026-01-27": 17,
       "2026-04-23": 130
